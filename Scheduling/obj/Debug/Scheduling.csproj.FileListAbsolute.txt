@@ -67,7 +67,16 @@ C:\Users\Peyton\Source\Repos\pmarinelli18\Scheduling\Scheduling\bin\Newtonsoft.J
 C:\Users\Peyton\Source\Repos\pmarinelli18\Scheduling\Scheduling\bin\Antlr3.Runtime.pdb
 C:\Users\Peyton\Source\Repos\pmarinelli18\Scheduling\Scheduling\bin\Microsoft.AspNet.FriendlyUrls.xml
 C:\Users\Peyton\Source\Repos\pmarinelli18\Scheduling\Scheduling\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\Peyton\Source\Repos\pmarinelli18\Scheduling\Scheduling\obj\Debug\Scheduling.csprojAssemblyReference.cache
 C:\Users\Peyton\Source\Repos\pmarinelli18\Scheduling\Scheduling\obj\Debug\Scheduling.csproj.CopyComplete
 C:\Users\Peyton\Source\Repos\pmarinelli18\Scheduling\Scheduling\obj\Debug\Scheduling.dll
 C:\Users\Peyton\Source\Repos\pmarinelli18\Scheduling\Scheduling\obj\Debug\Scheduling.pdb
+C:\Users\Peyton\source\repos\pmarinelli18\Scheduling\Scheduling\bin\EntityFramework.dll
+C:\Users\Peyton\source\repos\pmarinelli18\Scheduling\Scheduling\bin\EntityFramework.SqlServer.dll
+C:\Users\Peyton\source\repos\pmarinelli18\Scheduling\Scheduling\bin\System.Data.SQLite.dll
+C:\Users\Peyton\source\repos\pmarinelli18\Scheduling\Scheduling\bin\System.Data.SQLite.EF6.dll
+C:\Users\Peyton\source\repos\pmarinelli18\Scheduling\Scheduling\bin\System.Data.SQLite.Linq.dll
+C:\Users\Peyton\source\repos\pmarinelli18\Scheduling\Scheduling\bin\EntityFramework.xml
+C:\Users\Peyton\source\repos\pmarinelli18\Scheduling\Scheduling\bin\EntityFramework.SqlServer.xml
+C:\Users\Peyton\source\repos\pmarinelli18\Scheduling\Scheduling\bin\System.Data.SQLite.xml
+C:\Users\Peyton\source\repos\pmarinelli18\Scheduling\Scheduling\bin\System.Data.SQLite.dll.config
+C:\Users\Peyton\source\repos\pmarinelli18\Scheduling\Scheduling\obj\Debug\Scheduling.csprojAssemblyReference.cache
